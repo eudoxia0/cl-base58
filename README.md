@@ -18,8 +18,7 @@ cl-user> (base58:decode "jo91waLQA1NNeBmZKUF")
 # Tests
 
 The encoded strings in the tests were created with Andresen's unmodified code,
-so they are correct. Probably. If a bug here causes your up-and-coming Lisp
-cryptocurrency to crash and burn, redirect all complaints to him.
+so they are correct. Probably.
 
 # License
 
