@@ -7,6 +7,7 @@
   :version "0.1"
   :author "Fernando Borretti"
   :license "MIT"
+  :homepage "https://github.com/eudoxia0/cl-base58"
   :depends-on ()
   :components ((:module "src"
                 :components
